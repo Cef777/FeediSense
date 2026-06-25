@@ -12,7 +12,7 @@ FeediSense is an IoT-enabled smart aquaculture management and automated feeding 
 
 | Mobile Dashboard & Analytics | Hardware Prototype Integration |
 | --- | --- |
-| <img src="https://github.com/Cef777/FeediSense/blob/main/Picture1.jpg" width="250" alt="App UI"/> | <img src="https://via.placeholder.com/350x500.png?text=Arduino+Prototype" width="350" alt="Hardware Setup"/> |
+| <img src="https://github.com/Cef777/FeediSense/blob/main/photo_2026-06-25_15-57-20.jpg" width="250" alt="App UI"/> | <img src="https://via.placeholder.com/350x500.png?text=Arduino+Prototype" width="350" alt="Hardware Setup"/> |
 | *Real-time analytics plotting pH, DO, and Temp* | *Automated feeder prototype with load cells & sensors* |
 
 ---
