@@ -3,7 +3,7 @@
 FeediSense is an IoT-enabled smart aquaculture management and automated feeding mobile application built with **Flutter**. It interfaces directly with an Arduino-based hardware system via GSM/SMS protocols to deliver real-time water quality tracking, smart sensor calibration, and remote feeding automation.
 
 ### 🔗 Hardware Subsystem Repository
-> Arduino code (`FullWorkingCodeV4.ino`) is in a separate repository, link it here!
+> Arduino code, click below to view code.
 * [View Hardware Prototype Repository](https://github.com/Cef777/FeediSense/blob/main/FeediSense_ArduinoCode.ino)
 
 ---
