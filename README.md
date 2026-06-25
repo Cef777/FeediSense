@@ -1,4 +1,4 @@
-# feedisense2
+# FeediSense
 
 A new Flutter project.
 
